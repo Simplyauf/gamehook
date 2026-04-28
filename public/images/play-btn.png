@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 91.8194 37.045" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 57">
+<rect id="Rectangle 7" x="0.18746" y="1.99658" width="91.6319" height="35.0485" rx="17.5242" fill="var(--fill-0, #774936)"/>
+<rect id="Rectangle 9" width="91.6319" height="35.0485" rx="17.5242" fill="var(--fill-0, #CD9777)"/>
+<rect id="Rectangle 10" x="2.2487" y="1.55273" width="87.5094" height="31.7211" rx="15.8605" fill="url(#paint0_linear_0_47)"/>
+<ellipse id="Ellipse 1" cx="2.37976" cy="3.6668" rx="2.37976" ry="3.6668" transform="matrix(0.609487 -0.792796 0.680311 0.732923 79.2644 7.76611)" fill="var(--fill-0, white)"/>
+<ellipse id="Ellipse 2" cx="1.31916" cy="2.29083" rx="1.31916" ry="2.29083" transform="matrix(0.867306 -0.497775 0.379001 0.925396 85.2014 12.7705)" fill="var(--fill-0, white)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_47" x1="46.0971" y1="1.55273" x2="47.6716" y2="33.2514" gradientUnits="userSpaceOnUse">
+<stop stop-color="#33FF00"/>
+<stop offset="1" stop-color="#286733"/>
+</linearGradient>
+</defs>
+</svg>

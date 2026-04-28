@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gh-bg: #001208;
+  --color-gh-nav: #08090a;
+  --color-gh-green: #01a74b;
+  --color-gh-green-text: #0cf285;
+  --color-gh-green-dark: #002e14;
+  --color-gh-yellow: #ffcc4d;
+  --color-gh-purple: #6b1df8;
+  --color-gh-grey: #a8a8a8;
+  --color-gh-card: #182920;
+  --font-inter: 'Inter', sans-serif;
+  --font-irish: 'Irish Grover', sans-serif;
+  --font-han: 'Black Han Sans', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #001208;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Hide scrollbar but keep scroll */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
